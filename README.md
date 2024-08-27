@@ -17,7 +17,7 @@ data/Figure_6
                                        
 13_heatmaps_per_city_euro.ipynb has 4 sections:
 
--Heatmaps per city
--Contacts before and after the match
--Heatmaps stadiums per city
--POI
+- Heatmaps per city
+- Contacts before and after the match
+- Heatmaps stadiums per city
+- POI
