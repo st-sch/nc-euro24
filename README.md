@@ -6,7 +6,7 @@ UEFA EURO 2024 contact study
 
 data/heatmaps_62m_10 
 
-- csv (Figure 5/S6) contacts per hour per day per city with tl5 (62x62) and 10m in the city and in the stadium 
+- csv (Figure 5/S6) contacts per hour, per day, and per city with tiles (62x62) and 10m in the city and the stadiums
 - csv (Figure 4)  POI_germany
 
 
