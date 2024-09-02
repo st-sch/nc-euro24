@@ -1,0 +1,176 @@
+day,city,area_id,match,is_football,capacity
+2024-06-14,München,1,GER-SCO,True,66000
+2024-06-15,Köln,15,HUN-SUI,True,43000
+2024-06-19,Köln,15,SCO-SUI,True,43000
+2024-06-19,Stuttgart,11,GER-HUN,True,54000
+2024-06-23,Frankfurt am Main,4,SUI-GER,True,47000
+2024-06-23,Stuttgart,11,SCO-HUN,True,54000
+2024-06-15,Berlin,2,ESP-CRO,True,71000
+2024-06-15,Dortmund,10,ITA-ALB,True,62000
+2024-06-19,Hamburg,25,ALB-CRO,True,49000
+2024-06-20,Gelsenkirchen,28,ESP-ITA,True,50000
+2024-06-24,Düsseldorf,24,ALB-ESP,True,47000
+2024-06-24,Leipzig,3,CRO-ITA,True,40000
+2024-06-16,Stuttgart,11,SLO-DEN,True,54000
+2024-06-16,Gelsenkirchen,28,SRB-ENG,True,50000
+2024-06-20,Frankfurt am Main,4,DEN-ENG,True,47000
+2024-06-20,München,1,SLO-SRB,True,66000
+2024-06-25,Köln,15,ENG-SLO,True,43000
+2024-06-25,München,1,DEN-SRB,True,66000
+2024-06-16,Hamburg,25,POL-NED,True,49000
+2024-06-17,Düsseldorf,24,AUT-FRA,True,47000
+2024-06-21,Berlin,2,POL-AUT,True,71000
+2024-06-21,Leipzig,3,NED-FRA,True,40000
+2024-06-25,Dortmund,10,FRA-POL,True,62000
+2024-06-25,Berlin,2,NED-AUT,True,71000
+2024-06-17,Frankfurt am Main,4,BEL-SVK,True,47000
+2024-06-17,München,1,ROM-UKR,True,66000
+2024-06-21,Düsseldorf,24,SVK-UKR,True,47000
+2024-06-22,Köln,15,BEL-ROM,True,43000
+2024-06-26,Stuttgart,11,UKR-BEL,True,54000
+2024-06-26,Frankfurt am Main,4,SVK-ROM,True,47000
+2024-06-18,Dortmund,10,TUR-GEO,True,62000
+2024-06-18,Leipzig,3,POR-CZE,True,40000
+2024-06-22,Dortmund,10,TUR-POR,True,62000
+2024-06-22,Hamburg,25,GEO-CZE,True,49000
+2024-06-26,Hamburg,25,CZE-TUR,True,49000
+2024-06-26,Gelsenkirchen,28,GEO-POR,True,50000
+2024-06-29,Berlin,2,SUI-ITA,True,71000
+2024-06-29,Dortmund,10,GER-DEN,True,62000
+2024-06-30,Gelsenkirchen,28,ENG-SVK,True,50000
+2024-06-30,Köln,15,ESP-GEO,True,43000
+2024-07-01,Düsseldorf,24,FRA-BEL,True,47000
+2024-07-01,Frankfurt am Main,4,POR-SLO,True,47000
+2024-07-02,München,1,ROM-NED,True,66000
+2024-07-02,Leipzig,3,AUT-TUR,True,40000
+2024-07-05,Stuttgart,11,ESP-GER,True,54000
+2024-07-05,Hamburg,25,POR-FRA,True,49000
+2024-07-06,Düsseldorf,24,ENG-SUI,True,47000
+2024-07-06,Berlin,2,NED-TUR,True,71000
+2024-07-09,München,1,ESP-FRA,True,66000
+2024-07-10,Dortmund,10,ENG-NED,True,62000
+2024-07-14,Berlin,2,ESP-ENG,True,71000
+2024-06-09,München,41,AC/DC,False,66000
+2024-06-12,München,41,AC/DC,False,66000
+2024-06-22,München,41,A Gabalier,False,60000
+2024-07-11,Frankfurt am Main,4,Rammstein,False,40000
+2024-07-12,Frankfurt am Main,4,Rammstein,False,40000
+2024-07-13,Frankfurt am Main,4,Rammstein,False,40000
+2024-07-12,Köln,15,P Maffay,False,37000
+2024-07-13,Köln,15,R Kaiser,False,42000
+2024-06-01,Dortmund,10,UEFA CL,True,62000
+2024-07-08,München,1,Tollwood,False,66000
+2024-05-12,München,1,BLiga,True,66000
+2024-05-24,München,41,Metallica,False,75000
+2024-05-26,München,41,Metallica,False,75000
+2024-05-19,Hamburg,25,BLiga,True,49000
+2024-05-11,Gelsenkirchen,28,BLiga,True,50000
+2024-05-17,Gelsenkirchen,28,AC/DC,False,55000
+2024-05-21,Gelsenkirchen,28,AC/DC,False,54000
+2024-05-18,Stuttgart,11,BLiga,True,54000
+2024-06-01,Düsseldorf,-1,Japan Day,False,auto
+2024-06-28,Düsseldorf,-1,DoKomi,False,auto
+2024-06-29,Düsseldorf,-1,DoKomi,False,auto
+2024-06-30,Düsseldorf,-1,DoKomi,False,auto
+2024-05-18,Dortmund,10,BLiga,True,62000
+2024-05-18,Frankfurt am Main,4,BLiga,True,47000
+2024-05-11,Leipzig,3,BLiga,True,40000
+2024-05-11,Köln,15,BLiga,True,43000
+2024-05-09,Köln,15,DFB Pokal,True,43000
+2024-05-19,Düsseldorf,24,BLiga,True,47000
+2024-05-25,Berlin,2,DFB Pokal,True,71000
+2024-05-11,Berlin,2,BLiga,True,71000
+2024-04-26,Berlin,2,BLiga,True,71000
+2024-05-05,Berlin,2,S25 Berlin,False,71000
+2024-05-04,Dortmund,10,BLiga,True,62000
+2024-05-01,Dortmund,10,UEFA CL,True,62000
+2024-05-27,Düsseldorf,24,BLiga rel,True,47000
+2024-05-03,Düsseldorf,24,BLiga,True,47000
+2024-05-05,Frankfurt am Main,4,BLiga,True,47000
+2024-04-27,Gelsenkirchen,28,BLiga,True,50000
+2024-05-03,Hamburg,25,BLiga,True,49000
+2024-05-04,Köln,15,BLiga,True,43000
+2024-04-27,Leipzig,3,BLiga,True,40000
+2024-04-27,München,1,BLiga,True,66000
+2024-04-30,München,1,UEFA CL,True,66000
+2024-05-04,Stuttgart,11,BLiga,True,54000
+2024-05-07,Dortmund,10,B2Run,True,62000
+2024-04-28,Berlin,16,RLiga (f),True,22000
+2024-05-05,Berlin,16,BLiga,True,22000
+2024-05-18,Berlin,16,BLiga,True,22000
+2024-06-09,Berlin,16,RLiga (f),True,22000
+2024-05-25,Frankfurt am Main,64,HLiga,True,12000
+2024-06-30,Frankfurt am Main,64,Am. Football,False,12000
+2024-07-13,Frankfurt am Main,64,Am. Football,False,12000
+2024-04-26,Hamburg,29,BLiga,True,30000
+2024-05-12,Hamburg,29,BLiga,True,30000
+2024-05-25,Hamburg,29,RLiga (f),True,30000
+2024-06-01,Hamburg,29,HipHop,True,30000
+2024-06-29,München,41,fan zone,False,69000
+2024-07-05,München,41,fan zone,False,69000
+2024-07-13,München,41,A Bayern,False,69000
+2024-07-17,München,41,B2Run,False,69000
+2024-07-18,München,-1,Tollwood,False,auto
+2024-07-14,Hamburg,25,Am. Football,False,49000
+2024-07-17,Gelsenkirchen,28,T Swift,False,60000
+2024-07-18,Gelsenkirchen,28,T Swift,False,60000
+2024-07-19,Gelsenkirchen,28,T Swift,False,60000
+2024-07-15,Stuttgart,-1,P Maffay,False,16000
+2024-07-17,Stuttgart,-1,AC/DC,False,90000
+2024-07-19,Stuttgart,11,P!NK,False,45000
+2024-06-27,Stuttgart,-1,fan zone,False,auto
+2024-07-20,Düsseldorf,24,Coldplay,False,47000
+2024-07-21,Düsseldorf,24,Coldplay,False,47000
+2024-07-23,Düsseldorf,24,Coldplay,False,47000
+2024-07-18,Frankfurt am Main,4,P Maffay,False,39000
+2024-07-20,Frankfurt am Main,4,R Kaiser,False,25000
+2024-07-17,Leipzig,3,P!NK,False,43000
+2024-07-19,Leipzig,3,R Kaiser,False,44000
+2024-07-20,Leipzig,3,P Maffay,False,38000
+2024-07-20,Köln,-1,CSD,False,auto
+2024-07-21,Köln,-1,CSD,False,auto
+2024-06-01,Berlin,-1,Schlagernacht,False,auto
+2024-08-03,Berlin,2,BLiga,True,71000
+2024-04-12,Berlin,2,BLiga,True,71000
+2024-07-27,Berlin,16,friendly match,True,22000
+2024-08-03,Berlin,16,friendly match,True,22000
+2024-04-20,Berlin,16,BLiga,True,22000
+2024-04-06,Berlin,16,BLiga,True,22000
+2024-08-03,Dortmund,10,BLiga3,True,62000
+2024-04-21,Dortmund,10,BLiga,True,62000
+2024-04-16,Dortmund,10,UEFA CL,True,62000
+2024-04-06,Dortmund,10,BLiga,True,62000
+2024-04-20,Düsseldorf,24,BLiga,True,47000
+2024-04-07,Düsseldorf,24,BLiga,True,47000
+2024-04-05,Frankfurt am Main,4,BLiga,True,47000
+2024-04-19,Frankfurt am Main,4,BLiga,True,47000
+2024-07-26,Frankfurt am Main,4,T Scott,False,47000
+2024-07-27,Frankfurt am Main,4,T Scott,False,47000
+2024-07-20,Köln,15,T Scott,False,43000
+2024-04-13,Gelsenkirchen,28,BLiga,True,50000
+2024-07-26,Gelsenkirchen,28,Rammstein,False,60000
+2024-07-27,Gelsenkirchen,28,Rammstein,False,60000
+2024-07-29,Gelsenkirchen,28,Rammstein,False,60000
+2024-07-30,Gelsenkirchen,28,Rammstein,False,60000
+2024-07-31,Gelsenkirchen,28,Rammstein,False,60000
+2024-08-03,Gelsenkirchen,28,BLiga,True,50000
+2024-04-06,Hamburg,25,BLiga,True,49000
+2024-04-20,Hamburg,25,BLiga,True,49000
+2024-07-23,Hamburg,25,T Swift,False,50000
+2024-07-24,Hamburg,25,T Swift,False,50000
+2024-04-14,Hamburg,29,BLiga,True,30000
+2024-04-06,Köln,15,BLiga,True,43000
+2024-04-20,Köln,15,BLiga,True,43000
+2024-08-02,Köln,15,BLiga,True,43000
+2024-04-13,Leipzig,3,BLiga,True,40000
+2024-04-17,München,1,UEFA CL,True,66000
+2024-04-13,München,1,BLiga,True,66000
+2024-07-27,München,41,T Swift,False,70000
+2024-07-28,München,41,T Swift,False,70000
+2024-04-13,Stuttgart,11,BLiga,True,54000
+2024-08-03,Stuttgart,-1,SDP,False,30000
+2024-08-03,Dortmund,-1,Schlagerboom,False,auto
+2024-05-27,Frankfurt am Main,-1,Apache 207,False,auto
+2024-07-21,Gelsenkirchen,-1,Schalke Tach,False,auto
+2024-05-24,Köln,-1,H Carpendale,False,auto
+2024-08-02,Leipzig,-1,SDP,False,auto
