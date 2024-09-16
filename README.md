@@ -4,9 +4,9 @@ UEFA EURO 2024 contact study
 - csv: intra-city trends (Figure 1) -> Table (incl. Germany)
 - csv: event comparison (Figure 2)
 
-data/heatmaps_62m_10 
+data/heatmaps_62m_10/16m_10/8m_10m 
 
-- csv (Figure 5/S6) contacts per hour, per day, and per city with tiles (62x62) and 10m in the city and the stadiums
+- csv (Figure 5/S6) contacts per hour, per day, and per city and the stadiums
 - csv (Figure 4)  POI_germany
 
 
@@ -21,3 +21,6 @@ data/Figure_6
 - Contacts before and after the match
 - Heatmaps stadiums per city
 - POI
+  
+plot/Figure_S7
+-stable/random 8m_2m
