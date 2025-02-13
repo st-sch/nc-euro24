@@ -16,6 +16,7 @@ data/fig 6
 - csv  baseline number of contacts around (15:00 18:00 and 21:00) per city during 2 weeks before EURO 24
                                        
 data/fig 4
+
 -csv random-current contacts 
 
 
