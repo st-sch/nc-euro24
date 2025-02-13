@@ -7,20 +7,18 @@ UEFA EURO 2024 contact study
 data/heatmaps_62m_10/16m_10/8m_10m/8m_60min
 
 - csv (Figure 5/S6) contacts per hour, per day, and per city and the stadiums
-- csv (Figure 4)  POI_germany
+- csv (Figure 3)  POI_germany
 
 
-data/Figure_6        
+data/fig 6       
 
-- csv (Figure 6)  number of contacts per match per city
-- csv (Figure 6)  baseline number of contacts around (15:00 18:00 and 21:00) per city during 2 weeks before EURO 24
+- csv  number of contacts per match per city
+- csv  baseline number of contacts around (15:00 18:00 and 21:00) per city during 2 weeks before EURO 24
                                        
-13_heatmaps_per_city_euro.ipynb has 4 sections:
+data/fig 4
+-csv random-current contacts 
 
-- Heatmaps per city
-- Contacts before and after the match
-- Heatmaps stadiums per city
-- POI
+
   
 plot/Figure_S7
 -stable/random 8m_2m
