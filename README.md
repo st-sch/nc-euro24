@@ -1,3 +1,5 @@
+How to create the data frames in  euro_heatmaps_complete.ipynb
+
 # nc-euro24
 UEFA EURO 2024 contact study
 
