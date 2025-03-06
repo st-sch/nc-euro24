@@ -1,3 +1,24 @@
 .ipynb_checkpoints/
-output/
+#output/
+
+# big data files
+output/07_poi_contacts.csv
+output/08_follow_didpairs.csv
+output/08_follow_didpairs_cities.csv
+output/09_contacts_cities_stadiums_tmp.csv
+output/09_contacts_cities_stadiums.csv
+
+# bullshit output
+plots/hexagon_layer.*
+
+# old results
+data/
+plots/fig_3/
+data/fig_4/
+plots/fig_4/
+data/fig_6/
+plots/fig_6/
+euro_heatmaps_complete.ipynb
 fig_1_2.ipynb
+fig_1_2_nooutput.ipynb
+fig_3_4_5_6.ipynb
