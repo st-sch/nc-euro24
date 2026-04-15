@@ -1,3 +1,6 @@
+# secrets
+.env
+
 # jupyter output
 .ipynb_checkpoints/
 
@@ -6,3 +9,8 @@ data/*
 
 # dirty notebooks
 notebooks/
+
+# ???
+**/.DS_Store
+
+plots/figs/*
