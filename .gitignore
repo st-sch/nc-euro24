@@ -10,7 +10,11 @@ data/*
 # dirty notebooks
 notebooks/
 
+# html maps
+**/*.html
+
+# Inkscape files
+figures/*.svg
+
 # ???
 **/.DS_Store
-
-plots/figs/*
