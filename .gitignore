@@ -16,5 +16,8 @@ notebooks/
 # Inkscape files
 figures/*.svg
 
+# manuscript writing
+draft/*
+
 # ???
 **/.DS_Store
