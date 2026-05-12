@@ -6,9 +6,13 @@
 
 # raw data (too big for Github)
 data/*
+!data/README.md
 
 # dirty notebooks
 notebooks/
+
+# manuscript writing
+draft/*
 
 # html maps
 **/*.html
