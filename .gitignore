@@ -1,12 +1,16 @@
 # secrets
 .env
 
-# jupyter output
+# Jupyter notebooks
+15_data_zenodo.ipynb
+
+# Jupyter output
 .ipynb_checkpoints/
 
 # raw data (too big for Github)
 data/*
 !data/README.md
+data_zenodo/*
 
 # dirty notebooks
 notebooks/
@@ -19,9 +23,6 @@ draft/*
 
 # Inkscape files
 figures/*.svg
-
-# manuscript writing
-draft/*
 
 # ???
 **/.DS_Store
